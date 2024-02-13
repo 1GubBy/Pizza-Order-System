@@ -1,5 +1,6 @@
 # Pizza-Order-System
-Bu projede elimizde bulunan menü'den pizza tabanını ve sosunu seçerek istediğiniz şekilde pizzanızı oluşturabilir sonrasında ise ödeme işlemlerini gerçekleştirip pizza   detaylarını ve kullanıcı bilgilerini .csv dosyasına kaydedebilirsiniz.
+(TR) Bu projede elimizde bulunan menü'den pizza tabanını ve sosunu seçerek istediğiniz şekilde pizzanızı oluşturabilir sonrasında ise ödeme işlemlerini gerçekleştirip pizza detaylarını ve kullanıcı bilgilerini .csv dosyasına kaydedebilirsiniz.
+(EN) With this project, you can make your own pizza by choosing the pizza base and sauceses from the menu which we already have as you wish and then you can save the pizza and user informations into the .csv file by realizing the payment process.
 
 
 # ÖNEMLİ - PROJE KLASÖRÜNÜN AÇILMASI
